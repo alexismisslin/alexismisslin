@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<figure><embed src="https://wakatime.com/share/@Aleksy/ef0a1c90-9177-47dd-9f12-a9e3cd95b151.svg"></embed></figure>
+![Description de l'image](https://wakatime.com/share/@Aleksy/e604ee1e-442c-490d-a00a-a540a9be4646.svg)
 <!--
 **alexismisslin/alexismisslin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
